@@ -39,8 +39,6 @@ Hallland studio 설명서 : https://cafe.naver.com/edac/142382
 
 ## 주의사항
 
-사용자가 제작한 `.scx`, `.save` 파일과 `Crawled`, `TestOutput` 폴더는 별도로 보관하는 것을 권장합니다.
-
 커스텀 EPS 파일을 사용하는 경우 업데이트 전에 `source` 폴더를 백업해 주세요.
 
 ## 현재 버전
