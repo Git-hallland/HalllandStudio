@@ -39,7 +39,7 @@ Hallland studio 설명서 : https://cafe.naver.com/edac/142382
 
 ## 주의사항
 
-커스텀 EPS 파일을 사용하는 경우 업데이트 전에 `source` 폴더를 백업해 주세요.
+EPS 파일을 커스텀하여 사용하는 경우 업데이트 전에 `source` 폴더를 백업해 주세요.
 
 ## 현재 버전
 
