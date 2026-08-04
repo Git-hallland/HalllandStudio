@@ -1,2 +1,48 @@
-# HalllandStudio
-Hallland Studio - Guess Use Map Creator for StarCraft
+# Hallland Studio
+
+스타크래프트 노래 맞히기 맵을 손쉽게 제작할 수 있는 통합 제작 도구입니다.
+
+Excel, EPS 파일을 직접 수정하지 않고도 노래 등록부터 음원 처리, 맵 빌드까지 한 번에 진행할 수 있습니다.
+
+## 주요 기능
+
+- 노래 목록 등록 및 편집
+- 제목 맞히기 / 제목 + 가수 맞히기 모드
+- 유튜브 음원 자동 다운로드
+- 오프닝 및 엔딩 음악 설정
+- 음원 정규화 및 OGG 분할
+- 프로젝트 저장 및 불러오기
+- 스타크래프트 맵 자동 빌드
+- GitHub 기반 자동 업데이트
+
+## 사용 방법
+
+1. Hallland Studio를 실행합니다.
+2. 새 프로젝트를 생성합니다.
+3. 노래와 게임 설정을 입력합니다.
+4. `MAKE MAP` 버튼을 누릅니다.
+5. 생성된 `.scx` 파일을 확인합니다.
+
+Hallland studio 설명서 : https://cafe.naver.com/edac/142382 
+
+   Norwayworker 설명서 : https://cafe.naver.com/edac/142318 
+
+## 다운로드
+
+오른쪽의 **Releases** 메뉴에서 최신 버전을 다운로드할 수 있습니다.
+
+## 시스템 요구 사항
+
+- Windows 10 / 11
+- 64비트 운영체제
+- 인터넷 연결
+
+## 주의사항
+
+사용자가 제작한 `.scx`, `.save` 파일과 `Crawled`, `TestOutput` 폴더는 별도로 보관하는 것을 권장합니다.
+
+커스텀 EPS 파일을 사용하는 경우 업데이트 전에 `source` 폴더를 백업해 주세요.
+
+## 현재 버전
+
+**Hallland Studio v1.2**
