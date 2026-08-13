@@ -22,13 +22,13 @@ Windows 데스크톱 애플리케이션입니다.
 - 💾 프로젝트 저장 및 불러오기
 - 🗺️ EUDDraft 기반 One-Click 맵 빌드
 - 🔄 GitHub Releases 기반 자동 업데이트
-- 🐞 버그 제보 및 기능 개선 요청
+- 🐞 버그 제보 및 기능 피드백 요청
 
 ---
 
 ## 📸 Hallland Studio v1.3
 
-<!-- v1.3 메인 화면 스크린샷 추가 예정 -->
+![Hallland Studio v1.3 Home](hallland-studio-v1.3-home.png)
 
 ---
 
