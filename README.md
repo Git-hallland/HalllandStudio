@@ -26,7 +26,7 @@ Windows 데스크톱 애플리케이션입니다.
 
 ---
 
-## 📸 Hallland Studio v1.3
+## 📸 Hallland Studio v1.4
 
 ![Hallland Studio v1.3 Home](hallland-studio-v1.3-home.png)
 
@@ -77,6 +77,6 @@ EPS 파일을 직접 수정하여 커스텀 기능을 사용하는 경우
 
 ## 📌 현재 버전
 
-**Hallland Studio v1.3**
+**Hallland Studio v1.4**
 
 > 2026.08 · UI/UX 및 브랜딩 전면 리뉴얼
