@@ -43,8 +43,8 @@ Windows 데스크톱 애플리케이션입니다.
 
 ### 📖 자세한 사용법
 
-- Hallland Studio 설명서: 기존 네이버 카페 설명서 링크
-- NorwayWorker 설명서: 기존 네이버 카페 설명서 링크
+- Hallland Studio 설명서: https://cafe.naver.com/edac/142382
+- NorwayWorker 설명서: https://cafe.naver.com/edac/142318
 
 ---
 
